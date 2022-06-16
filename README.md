@@ -1,7 +1,7 @@
 # Mond
-Mond widget for übersicht
+##Mond widget for übersicht
 
-YOU HAVE TO DOUBBLE CLICK THE Anurati.otf FILE AND CLICK INSTALL!!!!!!!
+**YOU HAVE TO DOUBBLE CLICK THE Anurati.otf FILE AND CLICK INSTALL!!!!!!!**
 
 ![First 2 Steps](https://user-images.githubusercontent.com/89935135/174011665-60325700-ac27-4528-beb1-26a76190465f.png)
 
@@ -9,4 +9,4 @@ YOU HAVE TO DOUBBLE CLICK THE Anurati.otf FILE AND CLICK INSTALL!!!!!!!
 
 ![4 STep](https://user-images.githubusercontent.com/89935135/174011383-8d3bbeac-7577-43ac-87bc-922ac9306bdd.png)
 
-Done!
+*Done!*
