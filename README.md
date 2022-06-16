@@ -1,5 +1,5 @@
 # Mond
-##Mond widget for übersicht
+## Mond widget for übersicht
 
 **YOU HAVE TO DOUBBLE CLICK THE Anurati.otf FILE AND CLICK INSTALL!!!!!!!**
 
