@@ -1,6 +1,8 @@
 # Mond
 ## Mond widget for übersicht
 
+In the index.coffee file set clock14h to true if you want a 12h clock.
+
 **YOU HAVE TO DOUBBLE CLICK THE Anurati.otf FILE AND CLICK INSTALL!!!!!!!**
 
 ![First 2 Steps](https://user-images.githubusercontent.com/89935135/174011665-60325700-ac27-4528-beb1-26a76190465f.png)
