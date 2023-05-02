@@ -3,7 +3,7 @@
 
 Set clock12h to false if you want a 24h clock.
 
-You can set the language here 'en' or 'de' (In the index.coffee file):
+You can set the language to 'en' or 'de' (In the index.coffee file):
 
 ![Bildschirmfoto 2023-01-19 um 11 08 48](https://user-images.githubusercontent.com/89935135/213414672-d7655463-8bf0-4143-81fc-cedfbf017981.png)
 
